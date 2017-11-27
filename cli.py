@@ -1,0 +1,1 @@
+from clize import run
